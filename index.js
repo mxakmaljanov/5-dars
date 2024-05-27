@@ -46,7 +46,7 @@
 //for(let i=+prompt("sonni kiting"); k<=i;k/10){
 //    console.log(k)
 //}
-//0-misol
+//10-misol
 //et k=6
 //or(let i=+prompt("sonni kiting"); k<=i;k+0.1){
 //   console.log(k)
